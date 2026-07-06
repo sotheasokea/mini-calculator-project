@@ -2,7 +2,7 @@
 
 A simple front-end calculator built with JavaScript for basic arithmetic operations.
 
-Live Demo:
+Live Demo: https://mini-calculator-beta.vercel.app/
 ---
 
 ## Overview
