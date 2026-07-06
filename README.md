@@ -38,5 +38,16 @@ The JavaScript logic manages the calculator's state through several key function
 *   **`calculate()`**: Executes the final arithmetic operation on the stored operands to display the result on the screen.
 *   **`deleteOne()`**: Manages the clearing of the last operand from the current expression for easy correction.
 
----
+
+## Local Setup & Installation
+
+To run this calculator locally on your machine, follow these steps:
+
+### 1. Clone or Download the Project
+You can get the project files onto your computer in one of two ways:
+
+* **Using Git (Recommended):** Clone the repository via your terminal:
+  ```bash
+  git clone https://github.com/sotheasokea/mini-calculator-project.git
+  ---
 This project focuses on the front-end implementation, where **HTML/CSS** provides the visual interface and **JavaScript** provides the functional calculation engine.
